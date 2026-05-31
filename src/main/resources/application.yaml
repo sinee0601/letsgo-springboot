@@ -12,4 +12,3 @@ mybatis:
 
 server:
   port: 5531
-  mapper-locations: classpath:mappers/myScheduleMapper.xml
